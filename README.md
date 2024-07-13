@@ -28,8 +28,7 @@ the data was collected from the company's database in the form of excel sheet
 
 ### Sharing 
 
-using tableau i was able to generate an interactive dashboard visualising insights generated
-https://public.tableau.com/app/profile/abdelrahman.hemdan/viz/1MSALESRECORDS/Dashboard1
+![Screenshot (57)](https://github.com/user-attachments/assets/890c1e2e-9c56-4c90-bed7-ab9e9b32b37e)
 
 
 
