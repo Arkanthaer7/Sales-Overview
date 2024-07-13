@@ -28,8 +28,7 @@ the data was collected from the company's database in the form of excel sheet
 
 ### Sharing 
 
-![Screenshot (57)](https://github.com/user-attachments/assets/890c1e2e-9c56-4c90-bed7-ab9e9b32b37e)
-
+![Screenshot (54)](https://github.com/user-attachments/assets/c0391edf-d560-4f59-972b-3b0de8035d81)
 
 
 ### Action
